@@ -15,3 +15,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 
 | Class | Topic     | Link                |
 | :-------- | :------- | :------------------------- |
+| `Week 1 Day 2` | Intro to Coding | https://strategiced.zoom.us/rec/share/jWMH2pMAdwFoaerV-Mp3cLbWcxEaP1VeR3Pw-E5Ej6i7FMA01n7N5ongD7Q_3wtv.FBELxEaQtsTkFIed |
