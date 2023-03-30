@@ -21,3 +21,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 1` | Functions | https://strategiced.zoom.us/rec/share/ODEGTFyLl2UjDKZIUDE__U1saYjHTYIrtexMowSxQEQcQCoxiSrgZHEuhcxXzHNO.-8HQOU0LEojHn8fq |
 | `Week 2 Day 2` | Object Orientation | https://strategiced.zoom.us/rec/share/_tSlbmAPnZ1J8grcWf4e98-kODWtCf4nvWKR8WTgOA1wVrC-_65gtKUkU_XVRDUl.8KaEjkbQKse6EzQl |
 | `Week 2 Day 2 EoD` | EoD Review | https://strategiced.zoom.us/rec/share/toGeih9RhxyXFbqnySq0URC2p3fJaE81Plh8ys63xXErM9mlaQ8ktGu2wa4t7lND.pQhdGnlP9_BFHo3q |
+| `Week 2 Day 3` | Callback Functions | https://strategiced.zoom.us/rec/share/DYq8VUm62U6oss1tIMG85lXliivF8MJutmf4nKXOiyFRnCjxBjeEfd8DNz1ZtRLX.PbVvukCM00f5U75- |
+| `Week 2 Day 4` | Array Methods | https://strategiced.zoom.us/rec/share/817oR1bEf0pK4qo6ozplOfRTmiVJpvNZxrsS_Ay6W4Nhnj2uGCg1bMTj5H5LPlUA.9oMfibWfzlrkQanw |
