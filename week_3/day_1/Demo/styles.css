@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+
+h1 {
+    color:rgb(207, 77, 111) ;
+    background-color: rgb(197, 175, 164);
+    margin: 0px;
+    text-align: center;
+    font-size:120px;
+    font-weight: 200;
+    border: 10px black solid;
+}
+
+div{
+    background-color: darkslategray;
+    width: 50vw;
+    height: 3in;
+}
+div div {
+    background-color: red;
+    width: 25vw;
+    height: 1.5in;
+}
+
+h2,h4,h6{
+    background-color: dimgrey;
+    color: goldenrod;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    padding: 0px;
+    margin-left: 20px;
+    border: 10px black double;
+}
