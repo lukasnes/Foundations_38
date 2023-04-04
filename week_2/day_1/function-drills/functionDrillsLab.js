@@ -12,7 +12,10 @@
 */
 
 //CODE HERE
-
+const helloWorld = () => {
+  console.log("Hello, World!")
+}
+helloWorld()
 
 ////////////////// PROBLEM 2 ////////////////////
 
