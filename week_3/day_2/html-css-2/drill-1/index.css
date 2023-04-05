@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+header{
+    height: 200px;
+    background-color: lightslategray;
+}
+
+main{
+    display: flex;
+}
+
+aside{
+    width: 200px;
+    height: calc(100vh - 200px);
+    background-color: lightgray;
+}
+
+section{
+    width: calc(100vw - 400px);
+    display: flex;
+    flex-direction: column;
+}
+
+div{
+    height: calc(100vh - 300px)
+}
+
+footer{
+    height: 100px;
+    background-color: black;
+}
