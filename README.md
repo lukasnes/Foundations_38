@@ -25,3 +25,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 2 Day 4` | Array Methods | https://strategiced.zoom.us/rec/share/817oR1bEf0pK4qo6ozplOfRTmiVJpvNZxrsS_Ay6W4Nhnj2uGCg1bMTj5H5LPlUA.9oMfibWfzlrkQanw |
 | `Week 3 Day 1` | HTML & CSS | https://strategiced.zoom.us/rec/share/NJrz70AwINNesBmOr8m-_c4z19HtTbMQx0S0BuF3GMzgUrsw2AbMbbJ0Lucg-5l-.Q6swVjOs0R0rDEm8 |
 | `Week 3 Day 2` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/Kjyo7Y3CQAD4amHr1sWL5sQk7hqYtIEFZWZz-wDeOdd8ylvammiYQlWKQPDPvTWc.eq3JPJasx95Dt4lz |
+| `Week 3 Day 3` | Interactivity | https://strategiced.zoom.us/rec/share/RrFDDB9YA-oyrD6jv2nIcj3kz23yXw8pelfLz5H1v8mko5KVdNCgyJVuW9fVtQ5o.RiUqMInuFhM7SWlX |
