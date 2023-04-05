@@ -26,3 +26,4 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 1` | HTML & CSS | https://strategiced.zoom.us/rec/share/NJrz70AwINNesBmOr8m-_c4z19HtTbMQx0S0BuF3GMzgUrsw2AbMbbJ0Lucg-5l-.Q6swVjOs0R0rDEm8 |
 | `Week 3 Day 2` | HTML & CSS 2 | https://strategiced.zoom.us/rec/share/Kjyo7Y3CQAD4amHr1sWL5sQk7hqYtIEFZWZz-wDeOdd8ylvammiYQlWKQPDPvTWc.eq3JPJasx95Dt4lz |
 | `Week 3 Day 3` | Interactivity | https://strategiced.zoom.us/rec/share/RrFDDB9YA-oyrD6jv2nIcj3kz23yXw8pelfLz5H1v8mko5KVdNCgyJVuW9fVtQ5o.RiUqMInuFhM7SWlX |
+| `Week 3 Day 3 EoD` | Movie List | https://strategiced.zoom.us/rec/share/FJhLFVUZ3nBimi0b0gDBkufIqU206zLy0Bit2r7ilBoI2Ic2AlRYInk5kGfbtefp.uPtFBzrlKYlzFKIt |
