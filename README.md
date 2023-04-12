@@ -28,3 +28,5 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 3 Day 3` | Interactivity | https://strategiced.zoom.us/rec/share/RrFDDB9YA-oyrD6jv2nIcj3kz23yXw8pelfLz5H1v8mko5KVdNCgyJVuW9fVtQ5o.RiUqMInuFhM7SWlX |
 | `Week 3 Day 3 EoD` | Movie List | https://strategiced.zoom.us/rec/share/FJhLFVUZ3nBimi0b0gDBkufIqU206zLy0Bit2r7ilBoI2Ic2AlRYInk5kGfbtefp.uPtFBzrlKYlzFKIt |
 | `Week 3 Day 4` | Requests | https://strategiced.zoom.us/rec/share/MJQx8c4AcKvtqm9IVZOTrAPZh9J1lE43Qn9XAntD2kp2FCQB_qdoZLIwoTxFfVs3.Ymi1ryKx8dM9Tuiu |
+| `Week 4 Day 1` | Back End | https://strategiced.zoom.us/rec/share/WiHIvOFutsLHtg6_CQuZXoZ2AJyAkc2RyNvYdayoJcLRyBDy7yzpg7DSxVCTmw0K.uHNzbv0CLaKVrLOi |
+| `Week 4 Day 2` | Back End 2 | https://strategiced.zoom.us/rec/share/CiSWUO_h4u6aTNcIgSNOsRSJ-laUJRuhgEYrl3jLH5B3q8p1g7ueqEIslgioZa1X.bqq47R-jz-9soPWi |
