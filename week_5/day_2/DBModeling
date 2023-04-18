@@ -1,0 +1,40 @@
+Data modeling for a social media app.
+
+    Features
+
+users can sign into the app with their email and password
+
+users can follow each other
+
+users can create posts with photos and/or text
+
+users can comment on posts
+
+users can join groups
+
+users can create posts within groups
+
+
+    Brainstorming
+
+userName email password age
+groupName posts comments
+photos following groupMembers
+
+
+    TABLE IDEAS 
+Users       stores user information, for sign in ect.
+posts       contains the info about a post, who created it and the text content of post
+photos      contains photos and the post they relate to
+comments    contain the user who left the comment, the post it was left on, and the body of the comment
+groups      contains the name of the group summary
+members     userId groupId
+groupPosts  postId groupId
+
+
+
+relationships
+
+one => many
+many => many
+one => one
