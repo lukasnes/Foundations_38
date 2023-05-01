@@ -39,3 +39,6 @@ Welcome to our class repository! This is where we will store all of the lecture 
 | `Week 6 Day 1` | QA & Testing | https://strategiced.zoom.us/rec/share/22n2Cas2_bQ36IiQOII9iBajDoKGLIhArP6re7ETnITljyWL4uxF2PeQnkc8YxGW.5EDBsEGNokCvFDNK |
 | `Week 6 Day 2` | Automation | https://strategiced.zoom.us/rec/share/K9rMhofQOx8KzpxNVoZ-SaDg7fNDMqUzwst0YVL-gInFTBFW6vlaf4Oe8EvDgqfM.Juwr72CJB4BcbmNF |
 | `Week 6 Day 3` | Deployment | https://strategiced.zoom.us/rec/share/LCxTpxIui9348PxUkCdbirasqdQwK90BAvCsGsz6e0WZMatVyzKlSixmoDtBF5qK.ef3PnQR2H8wrXJyR |
+| `Week 6 Day 4` | DevOps | https://strategiced.zoom.us/rec/share/fylvkGFPm2Z4t9C754nsiMl89EIIjeVrR0N76gR2WtRCCsP18Z_CikU5cH97Y6wO.bH9jpnRinTAYKlKb |
+| `Week 7 Day 1` | Algorithms & Capstone | https://strategiced.zoom.us/rec/share/j6mBdBpDvT6lylsN1Jsb7mDDNdpUnBeO-tY1bVZjR2bHSPoDC3WzixDpFwrbHRtN.5CnLlBDNwopSsZYC |
+| `Week 7 Day 1 EoD` | Project Setup | https://strategiced.zoom.us/rec/share/RIflks7R32mPPvft9BA6M9OuS2QWxL0OlH2I0jxx0DZtoRjbu0vWb3Xtb1W8WMSk.u_y51GIBdQYzG_rW |
